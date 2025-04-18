@@ -1,0 +1,167 @@
+[
+  {
+    "title": "The Pragmatic Programmer: Your Journey to Mastery",
+    "authors": ["andrew hunt", "david thomas"],
+    "summary": "A guide to pragmatic programming for software engineers and developers",
+    "publish_date": "2019-10-29",
+    "num_reviews": 30,
+    "publisher": "addison-wesley"
+  },
+  {
+    "title": "Python Crash Course",
+    "authors": ["eric matthes"],
+    "summary": "A fast-paced, no-nonsense guide to programming in Python",
+    "publish_date": "2019-05-03",
+    "num_reviews": 42,
+    "publisher": "no starch press"
+  },
+  {
+    "title": "Artificial Intelligence: A Modern Approach",
+    "authors": ["stuart russell", "peter norvig"],
+    "summary": "Comprehensive introduction to the theory and practice of artificial intelligence",
+    "publish_date": "2020-04-06",
+    "num_reviews": 39,
+    "publisher": "pearson"
+  },
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "authors": ["robert c. martin"],
+    "summary": "A guide to writing code that is easy to read, understand and maintain",
+    "publish_date": "2008-08-11",
+    "num_reviews": 55,
+    "publisher": "prentice hall"
+  },
+  {
+    "title": "You Don't Know JS: Up & Going",
+    "authors": ["kyle simpson"],
+    "summary": "Introduction to JavaScript and programming as a whole",
+    "publish_date": "2015-03-27",
+    "num_reviews": 36,
+    "publisher": "oreilly"
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "authors": ["marijn haverbeke"],
+    "summary": "A modern introduction to programming",
+    "publish_date": "2018-12-04",
+    "num_reviews": 38,
+    "publisher": "no starch press"
+  },
+  {
+    "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "authors": [
+      "erich gamma",
+      "richard helm",
+      "ralph johnson",
+      "john vlissides"
+    ],
+    "summary": "Guide to design patterns that can be used in any object-oriented language",
+    "publish_date": "1994-10-31",
+    "num_reviews": 45,
+    "publisher": "addison-wesley"
+  },
+  {
+    "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+    "authors": ["robert c. martin"],
+    "summary": "A guide to professional conduct in the field of software engineering",
+    "publish_date": "2011-05-13",
+    "num_reviews": 20,
+    "publisher": "prentice hall"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "authors": ["douglas crockford"],
+    "summary": "A deep dive into the parts of JavaScript that are essential to writing maintainable code",
+    "publish_date": "2008-05-15",
+    "num_reviews": 51,
+    "publisher": "oreilly"
+  },
+  {
+    "title": "Introduction to the Theory of Computation",
+    "authors": ["michael sipser"],
+    "summary": "Introduction to the theory of computation and complexity theory",
+    "publish_date": "2012-06-27",
+    "num_reviews": 33,
+    "publisher": "cengage learning"
+  },
+  {
+    "title": "Code Complete: A Practical Handbook of Software Construction",
+    "authors": ["steve mcconnell"],
+    "summary": "Una guía completa sobre buenas prácticas de construcción de software y técnicas de programación",
+    "publish_date": "2004-06-09",
+    "num_reviews": 48,
+    "publisher": "microsoft press"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "authors": ["gayle laakmann mcdowell"],
+    "summary": "Preparación para entrevistas técnicas con 189 preguntas y soluciones de programación",
+    "publish_date": "2015-07-01",
+    "num_reviews": 62,
+    "publisher": "careercup"
+  },
+  {
+    "title": "Head First Design Patterns",
+    "authors": ["eric freeman", "elisabeth robson", "bert bates", "kathy sierra"],
+    "summary": "Una introducción visual a los patrones de diseño con ejemplos prácticos",
+    "publish_date": "2004-10-25",
+    "num_reviews": 41,
+    "publisher": "oreilly"
+  },
+  {
+    "title": "Deep Learning",
+    "authors": ["ian goodfellow", "yoshua bengio", "aaron courville"],
+    "summary": "Un libro completo sobre los fundamentos y aplicaciones del aprendizaje profundo",
+    "publish_date": "2016-11-18",
+    "num_reviews": 37,
+    "publisher": "mit press"
+  },
+  {
+    "title": "Refactoring: Improving the Design of Existing Code",
+    "authors": ["martin fowler"],
+    "summary": "Guía esencial sobre cómo mejorar el código existente sin cambiar su comportamiento",
+    "publish_date": "2018-11-30",
+    "num_reviews": 44,
+    "publisher": "addison-wesley"
+  },
+  {
+    "title": "Learning Python",
+    "authors": ["mark lutz"],
+    "summary": "Un extenso tutorial para programadores que desean aprender Python desde cero",
+    "publish_date": "2013-07-06",
+    "num_reviews": 53,
+    "publisher": "oreilly"
+  },
+  {
+    "title": "Computer Systems: A Programmer's Perspective",
+    "authors": ["randal bryant", "david o'hallaron"],
+    "summary": "Introducción a sistemas computacionales desde la perspectiva de un programador",
+    "publish_date": "2015-03-11",
+    "num_reviews": 29,
+    "publisher": "pearson"
+  },
+  {
+    "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+    "authors": ["eric evans"],
+    "summary": "Enfoque para el desarrollo de software centrado en la complejidad del dominio del problema",
+    "publish_date": "2003-08-30",
+    "num_reviews": 35,
+    "publisher": "addison-wesley"
+  },
+  {
+    "title": "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript",
+    "authors": ["dan vanderkam"],
+    "summary": "Consejos prácticos para escribir código TypeScript más efectivo y evitar errores comunes",
+    "publish_date": "2019-10-22",
+    "num_reviews": 40,
+    "publisher": "oreilly"
+  },
+  {
+    "title": "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People",
+    "authors": ["aditya bhargava"],
+    "summary": "Explicación visual y amigable de algoritmos importantes para programadores",
+    "publish_date": "2016-05-01",
+    "num_reviews": 46,
+    "publisher": "manning publications"
+  }
+]
