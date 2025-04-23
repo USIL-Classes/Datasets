@@ -163,5 +163,53 @@
     "publish_date": "2016-05-01",
     "num_reviews": 46,
     "publisher": "manning publications"
-  }
+  },
+  {
+    "title": "Grokking Algorithms: Effective TypeScript and Tackling Complexity",
+    "authors": ["dan vanderkam"],
+    "summary": "Explicación visual prácticos para escribir código de software centrado",
+    "publish_date": "2018-06-01",
+    "num_reviews": 50,
+    "publisher": "oreilly"
+  },
+{
+  "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+  "authors": ["robert c. martin"],
+  "summary": "Principios y prácticas para escribir código limpio, mantenible y eficiente en el desarrollo de software",
+  "publish_date": "2008-08-11",
+  "num_reviews": 78,
+  "publisher": "prentice hall"
+},
+{
+  "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+  "authors": ["erich gamma", "richard helm", "ralph johnson", "john vlissides"],
+  "summary": "Catálogo fundamental de patrones de diseño para resolver problemas comunes en programación orientada a objetos",
+  "publish_date": "1994-10-31",
+  "num_reviews": 95,
+  "publisher": "addison-wesley professional"
+},
+{
+  "title": "Introduction to Algorithms",
+  "authors": ["thomas h. cormen", "charles e. leiserson", "ronald l. rivest", "clifford stein"],
+  "summary": "Referencia completa sobre algoritmos y estructuras de datos con análisis matemático detallado",
+  "publish_date": "2009-07-31",
+  "num_reviews": 102,
+  "publisher": "mit press"
+},
+{
+  "title": "The Pragmatic Programmer: Your Journey to Mastery",
+  "authors": ["andrew hunt", "david thomas"],
+  "summary": "Consejos prácticos y filosofía para convertirse en un programador más efectivo y profesional",
+  "publish_date": "2019-09-13",
+  "num_reviews": 63,
+  "publisher": "addison-wesley professional"
+},
+{
+  "title": "Cracking the Coding Interview",
+  "authors": ["gayle laakmann mcdowell"],
+  "summary": "Guía completa de preparación para entrevistas técnicas con 189 problemas y soluciones de programación",
+  "publish_date": "2015-07-01",
+  "num_reviews": 87,
+  "publisher": "careercup"
+}
 ]
