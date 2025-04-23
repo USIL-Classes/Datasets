@@ -1,0 +1,507 @@
+[
+  {
+    "title": "Advances in Neural Information Retrieval: A Comprehensive Survey",
+    "authors": [
+      {
+        "name": "María González",
+        "affiliation": "Universidad de Barcelona",
+        "email": "mgonzalez@ubarcelona.es",
+        "orcid": "0000-0001-2345-6789"
+      },
+      {
+        "name": "John Smith",
+        "affiliation": "MIT",
+        "email": "jsmith@mit.edu",
+        "orcid": "0000-0002-3456-7890"
+      }
+    ],
+    "publication_date": "2023-06-15",
+    "journal": "Journal of Information Science",
+    "doi": "10.1234/jis.2023.1234",
+    "abstract": "Neural information retrieval has emerged as a transformative approach for search systems. This survey offers a thorough examination of neural architectures, training methodologies, and evaluation frameworks in the field of information retrieval. We analyze 150 recent publications and identify key trends, challenges, and promising research directions.",
+    "summary": "This comprehensive survey examines the state of neural information retrieval systems over the past five years. The authors analyze architectures like BERT, T5, and domain-specific models for search applications. They identify key challenges including computational efficiency, interpretability, and domain adaptation. The paper provides a taxonomy of neural IR approaches and concludes with research directions emphasizing multimodal retrieval and zero-shot capabilities.",
+    "keywords": ["neural information retrieval", "deep learning", "search systems", "NLP", "transformers"],
+    "disciplines": ["Computer Science", "Information Retrieval", "Machine Learning"],
+    "citations_count": 47,
+    "references": [
+      {
+        "doi": "10.1145/3397271.3401075",
+        "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
+        "authors": "Nogueira et al.",
+        "year": 2020
+      },
+      {
+        "doi": "10.1145/3366423.3380131",
+        "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+        "authors": "Karpukhin et al.",
+        "year": 2020
+      }
+    ],
+    "full_text_url": "https://example.org/articles/neural-ir-survey",
+    "pdf_url": "https://example.org/articles/neural-ir-survey.pdf",
+    "language": "en",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "JIS-2023-1234",
+      "impact_factor": 4.7
+    },
+    "created_at": "2023-06-16T08:30:00Z",
+    "updated_at": "2023-06-16T08:30:00Z"
+  },
+  {
+    "title": "Climate Change Impacts on Marine Ecosystems: Evidence from the Mediterranean Sea",
+    "authors": [
+      {
+        "name": "Sophie Dupont",
+        "affiliation": "IFREMER",
+        "email": "sophie.dupont@ifremer.fr",
+        "orcid": "0000-0003-4567-8901"
+      },
+      {
+        "name": "Marco Rossi",
+        "affiliation": "University of Naples",
+        "email": "m.rossi@unina.it",
+        "orcid": "0000-0004-5678-9012"
+      }
+    ],
+    "publication_date": "2023-08-22",
+    "journal": "Marine Biology Research",
+    "doi": "10.3456/mbr.2023.5678",
+    "abstract": "Climate change is altering marine ecosystems worldwide. This study focuses on the Mediterranean Sea, an area experiencing warming at rates exceeding global averages. We present a 15-year dataset documenting shifts in species distribution, biodiversity loss, and ecosystem restructuring. Results indicate that warming-induced stratification has significantly disrupted nutrient cycling, affecting primary production throughout the basin.",
+    "summary": "This research documents climate change impacts on Mediterranean marine ecosystems using a 15-year dataset. The authors found temperature increases of 0.4°C per decade, leading to northward migration of 82 species and local extinction of 14 cold-water species. Stratification has reduced primary productivity by 18% in affected regions. The paper includes mapping of vulnerable habitats and projects future ecosystem changes under various climate scenarios, emphasizing the need for immediate conservation measures.",
+    "keywords": ["climate change", "Mediterranean Sea", "marine ecosystems", "biodiversity", "stratification"],
+    "disciplines": ["Marine Biology", "Climate Science", "Ecology"],
+    "citations_count": 28,
+    "references": [
+      {
+        "doi": "10.1038/s41558-019-0412-1",
+        "title": "Marine heatwaves under global warming",
+        "authors": "Frolicher et al.",
+        "year": 2019
+      },
+      {
+        "doi": "10.1126/science.aam7240",
+        "title": "Biodiversity redistribution under climate change: Impacts on ecosystems and human well-being",
+        "authors": "Pecl et al.",
+        "year": 2017
+      }
+    ],
+    "full_text_url": "https://example.org/mbr/climate-med-ecosystems",
+    "pdf_url": "https://example.org/mbr/climate-med-ecosystems.pdf",
+    "language": "en",
+    "license": "CC-BY-NC-4.0",
+    "metadata": {
+      "publisher_id": "MBR-2023-5678",
+      "impact_factor": 3.8,
+      "funding": ["European Union Horizon 2020", "French National Research Agency"]
+    },
+    "created_at": "2023-08-23T14:15:00Z",
+    "updated_at": "2023-10-05T09:20:00Z"
+  },
+  {
+    "title": "Quantum Machine Learning for Drug Discovery: Applications and Limitations",
+    "authors": [
+      {
+        "name": "Hiroshi Tanaka",
+        "affiliation": "University of Tokyo",
+        "email": "h.tanaka@utokyo.jp",
+        "orcid": "0000-0005-6789-0123"
+      },
+      {
+        "name": "Sarah Johnson",
+        "affiliation": "Quantum Pharmaceuticals Inc.",
+        "email": "s.johnson@quantumpharma.com",
+        "orcid": "0000-0006-7890-1234"
+      }
+    ],
+    "publication_date": "2023-09-10",
+    "journal": "Quantum Information Processing",
+    "doi": "10.5678/qip.2023.9012",
+    "abstract": "Quantum computing promises to accelerate drug discovery by efficiently modeling molecular interactions. This paper reviews quantum machine learning algorithms applied to pharmaceutical research, focusing on recent advances in quantum variational algorithms and tensor network methods. We evaluate performance on molecular property prediction tasks and identify technical barriers to practical implementation.",
+    "summary": "This review explores quantum machine learning applications in drug discovery. The authors analyze 23 recent quantum algorithms for molecular property prediction and docking simulations. While showing promise for handling complex quantum chemical calculations, current quantum hardware limitations restrict practical applications. Hybrid classical-quantum approaches demonstrated a 30% speedup for specific molecular screening tasks. The paper provides a critical assessment of the field's potential and immediate limitations, concluding that quantum advantage for drug discovery remains 3-5 years away despite theoretical benefits.",
+    "keywords": ["quantum computing", "machine learning", "drug discovery", "quantum chemistry", "NISQ algorithms"],
+    "disciplines": ["Quantum Computing", "Computational Chemistry", "Pharmaceutical Sciences"],
+    "citations_count": 19,
+    "references": [
+      {
+        "doi": "10.1038/s41586-019-1666-5",
+        "title": "Quantum supremacy using a programmable superconducting processor",
+        "authors": "Arute et al.",
+        "year": 2019
+      },
+      {
+        "doi": "10.1021/acs.jcim.8b00721",
+        "title": "Machine Learning in Drug Discovery and Development Part 1: A Primer",
+        "authors": "Vamathevan et al.",
+        "year": 2019
+      }
+    ],
+    "full_text_url": "https://example.org/qip/quantum-ml-drug-discovery",
+    "pdf_url": "https://example.org/qip/quantum-ml-drug-discovery.pdf",
+    "language": "en",
+    "license": "MIT",
+    "metadata": {
+      "publisher_id": "QIP-2023-9012",
+      "impact_factor": 5.2,
+      "funding": ["Japan Science and Technology Agency", "Quantum Pharmaceuticals Research Grant"]
+    },
+    "created_at": "2023-09-11T10:45:00Z",
+    "updated_at": "2023-09-11T10:45:00Z"
+  },
+  {
+    "title": "Nuevos biomarcadores para la detección temprana de la enfermedad de Alzheimer",
+    "authors": [
+      {
+        "name": "Carlos Méndez",
+        "affiliation": "Universidad Nacional Autónoma de México",
+        "email": "carlos.mendez@unam.mx",
+        "orcid": "0000-0007-8901-2345"
+      },
+      {
+        "name": "Elena Rodríguez",
+        "affiliation": "Hospital Universitario La Paz",
+        "email": "e.rodriguez@hulp.es",
+        "orcid": "0000-0008-9012-3456"
+      }
+    ],
+    "publication_date": "2023-07-05",
+    "journal": "Revista de Neurología Clínica",
+    "doi": "10.7890/rnc.2023.3456",
+    "abstract": "La detección temprana de la enfermedad de Alzheimer sigue siendo un desafío clínico significativo. Este estudio examina nuevos biomarcadores en plasma que podrían facilitar el diagnóstico precoz. Analizamos muestras de 240 pacientes utilizando espectrometría de masas y técnicas inmunológicas avanzadas, identificando un panel de cinco proteínas con alta sensibilidad y especificidad para detectar cambios neurológicos preclínicos.",
+    "summary": "Esta investigación identifica cinco nuevos biomarcadores plasmáticos para la detección temprana del Alzheimer. El estudio longitudinal de 3 años incluyó 240 participantes clasificados en grupos de control, deterioro cognitivo leve y Alzheimer confirmado. Los biomarcadores (p-tau217, GFAP, NfL, SNAP-25 y un fragmento específico de beta-amiloide) mostraron una precisión diagnóstica del 94% hasta 6 años antes de la manifestación de síntomas clínicos. Los autores proponen un algoritmo diagnóstico no invasivo basado en estos marcadores y validan su utilidad clínica mediante comparación con biomarcadores establecidos en líquido cefalorraquídeo.",
+    "keywords": ["enfermedad de Alzheimer", "biomarcadores", "diagnóstico temprano", "plasma", "proteómica"],
+    "disciplines": ["Neurología", "Medicina Clínica", "Diagnóstico Molecular"],
+    "citations_count": 16,
+    "references": [
+      {
+        "doi": "10.1001/jamaneurol.2022.1641",
+        "title": "Discriminative Accuracy of Plasma Phospho-tau217 for Alzheimer Disease vs Other Neurodegenerative Disorders",
+        "authors": "Palmqvist et al.",
+        "year": 2022
+      },
+      {
+        "doi": "10.1038/s41591-020-0755-1",
+        "title": "Blood phosphorylated tau 181 as a biomarker for Alzheimer's disease",
+        "authors": "Karikari et al.",
+        "year": 2020
+      }
+    ],
+    "full_text_url": "https://example.org/rnc/biomarcadores-alzheimer",
+    "pdf_url": "https://example.org/rnc/biomarcadores-alzheimer.pdf",
+    "language": "es",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "RNC-2023-3456",
+      "impact_factor": 4.3,
+      "funding": ["Consejo Nacional de Ciencia y Tecnología", "Fundación Española de Alzheimer"]
+    },
+    "created_at": "2023-07-06T11:20:00Z",
+    "updated_at": "2023-08-15T16:30:00Z"
+  },
+  {
+    "title": "Large Language Models in Healthcare: Ethical Considerations and Clinical Applications",
+    "authors": [
+      {
+        "name": "Amelia Chen",
+        "affiliation": "Stanford Medicine",
+        "email": "a.chen@stanford.edu",
+        "orcid": "0000-0009-0123-4567"
+      },
+      {
+        "name": "David Okonkwo",
+        "affiliation": "Johns Hopkins University",
+        "email": "d.okonkwo@jhu.edu",
+        "orcid": "0000-0010-1234-5678"
+      }
+    ],
+    "publication_date": "2023-10-18",
+    "journal": "Journal of Medical AI",
+    "doi": "10.9012/jmai.2023.7890",
+    "abstract": "Large Language Models (LLMs) are increasingly being deployed in healthcare settings for tasks ranging from administrative assistance to clinical decision support. This paper examines the ethical implications, regulatory challenges, and practical applications of LLMs in medicine. We present case studies from five healthcare institutions and propose a framework for responsible implementation.",
+    "summary": "This paper comprehensively reviews the integration of large language models in healthcare settings. The authors conducted an analysis of 18 LLM implementations across five major healthcare institutions, identifying key application areas including clinical documentation assistance, patient triage, medical education, and clinical decision support. Privacy concerns remain paramount, with the authors documenting four approaches to maintaining HIPAA compliance. Performance evaluation revealed 87% accuracy for administrative tasks but only 62% for complex clinical reasoning. The paper concludes with a practical 7-point ethical framework addressing bias mitigation, transparency requirements, and appropriate human oversight standards for healthcare LLMs.",
+    "keywords": ["artificial intelligence", "large language models", "healthcare", "medical ethics", "clinical decision support"],
+    "disciplines": ["Medical Informatics", "AI Ethics", "Healthcare Administration"],
+    "citations_count": 8,
+    "references": [
+      {
+        "doi": "10.1056/NEJMsr2214269",
+        "title": "Deploying Clinical Artificial Intelligence in Practice",
+        "authors": "Cook et al.",
+        "year": 2023
+      },
+      {
+        "doi": "10.1001/jama.2023.1058",
+        "title": "Artificial Intelligence in Health Care: A Report From the National Academy of Medicine",
+        "authors": "Matheny et al.",
+        "year": 2023
+      }
+    ],
+    "full_text_url": "https://example.org/jmai/llm-healthcare-ethics",
+    "pdf_url": "https://example.org/jmai/llm-healthcare-ethics.pdf",
+    "language": "en",
+    "license": "CC-BY-NC-ND-4.0",
+    "metadata": {
+      "publisher_id": "JMAI-2023-7890",
+      "impact_factor": 6.1,
+      "funding": ["National Institutes of Health", "Gates Foundation"]
+    },
+    "created_at": "2023-10-19T09:40:00Z",
+    "updated_at": "2023-10-19T09:40:00Z"
+  },
+  {
+    "title": "Transfer Learning for Biomedical Named Entity Recognition: A Comparative Study",
+    "authors": [
+      {
+        "name": "Wei Zhang",
+        "affiliation": "Tsinghua University",
+        "email": "w.zhang@tsinghua.edu.cn",
+        "orcid": "0000-0011-2345-6789"
+      },
+      {
+        "name": "Lena Patel",
+        "affiliation": "University of Cambridge",
+        "email": "l.patel@cam.ac.uk",
+        "orcid": "0000-0012-3456-7890"
+      }
+    ],
+    "publication_date": "2023-11-05",
+    "journal": "BMC Bioinformatics",
+    "doi": "10.8765/bmcbi.2023.4321",
+    "abstract": "Named entity recognition (NER) is essential for biomedical text mining. However, obtaining large annotated datasets in specialized domains remains challenging. This paper evaluates transfer learning approaches for biomedical NER across five distinct subdisciplines. We compare fine-tuning strategies for domain-specific BERT variants and assess their performance on genes, proteins, chemicals, diseases, and organisms recognition tasks.",
+    "summary": "This comparative study evaluates transfer learning approaches for biomedical named entity recognition across multiple subdisciplines. The authors tested 7 domain-specific language models (BioBERT, PubMedBERT, BioLinkBERT, etc.) on 9 benchmark datasets covering genes, proteins, chemicals, diseases, and organisms. Their analyses reveal that intermediate pre-training on related domains improves F1 scores by an average of 3.7%. Notably, the study provides empirical evidence that smaller, domain-focused models often outperform larger general-purpose models for specialized biomedical NER tasks. The paper includes a decision framework for selecting optimal transfer learning strategies based on target domain characteristics and available resources.",
+    "keywords": ["natural language processing", "biomedical NER", "transfer learning", "BERT", "text mining"],
+    "disciplines": ["Bioinformatics", "Computational Biology", "Natural Language Processing"],
+    "citations_count": 14,
+    "references": [
+      {
+        "doi": "10.1186/s12859-019-3321-3",
+        "title": "BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+        "authors": "Lee et al.",
+        "year": 2020
+      },
+      {
+        "doi": "10.18653/v1/2020.acl-main.740",
+        "title": "Don't Stop Pretraining: Adapt Language Models to Domains and Tasks",
+        "authors": "Gururangan et al.",
+        "year": 2020
+      }
+    ],
+    "full_text_url": "https://example.org/bmcbi/transfer-learning-biomedical-ner",
+    "pdf_url": "https://example.org/bmcbi/transfer-learning-biomedical-ner.pdf",
+    "language": "en",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "BMCBI-2023-4321",
+      "impact_factor": 3.9,
+      "funding": ["National Natural Science Foundation of China", "UK Research and Innovation"]
+    },
+    "created_at": "2023-11-06T13:20:00Z",
+    "updated_at": "2023-11-06T13:20:00Z"
+  },
+  {
+    "title": "Rethinking Quantum Neural Networks: Expressivity and Trainability",
+    "authors": [
+      {
+        "name": "Manoj Kumar",
+        "affiliation": "Indian Institute of Science",
+        "email": "manojk@iisc.ac.in",
+        "orcid": "0000-0013-4567-8901"
+      },
+      {
+        "name": "Lisa Volkmann",
+        "affiliation": "Delft University of Technology",
+        "email": "l.volkmann@tudelft.nl",
+        "orcid": "0000-0014-5678-9012"
+      }
+    ],
+    "publication_date": "2023-09-28",
+    "journal": "Quantum Machine Intelligence",
+    "doi": "10.9876/qmi.2023.5432",
+    "abstract": "Quantum Neural Networks (QNNs) promise exponential speedups for certain machine learning tasks, yet their practical advantages remain elusive. This paper analyzes the expressivity and trainability of various QNN architectures. We prove theoretical bounds on representational capacity and empirically investigate the barren plateau problem. Our results demonstrate that carefully designed QNN architectures can avoid optimization challenges while maintaining quantum advantage.",
+    "summary": "This theoretical work provides a formal analysis of quantum neural network architectures, focusing on the tension between expressivity and trainability. The authors mathematically prove that circuit depth scales logarithmically with expressivity for specific QNN designs but demonstrate that naive scaling leads to severe barren plateau problems. Their key contribution is a novel hierarchical quantum circuit architecture that maintains gradient variance above 10^-3 even at 30+ qubits while preserving exponential expressivity advantages. Empirical tests on 5 quantum simulation tasks show that these optimized architectures achieve 80-95% of theoretical quantum advantage on currently available hardware. The paper bridges quantum information theory and practical QNN design, offering concrete guidelines for quantum ML researchers.",
+    "keywords": ["quantum computing", "quantum neural networks", "barren plateaus", "expressivity", "quantum machine learning"],
+    "disciplines": ["Quantum Computing", "Machine Learning", "Quantum Information Theory"],
+    "citations_count": 11,
+    "references": [
+      {
+        "doi": "10.1038/s41467-018-07090-4",
+        "title": "The theory of variational hybrid quantum-classical algorithms",
+        "authors": "McClean et al.",
+        "year": 2016
+      },
+      {
+        "doi": "10.1038/s41467-021-22539-9",
+        "title": "Avoiding quantum barren plateaus with classical shadows",
+        "authors": "Chen et al.",
+        "year": 2021
+      }
+    ],
+    "full_text_url": "https://example.org/qmi/rethinking-quantum-neural-networks",
+    "pdf_url": "https://example.org/qmi/rethinking-quantum-neural-networks.pdf",
+    "language": "en",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "QMI-2023-5432",
+      "impact_factor": 4.8,
+      "funding": ["European Research Council", "Quantum India Initiative"]
+    },
+    "created_at": "2023-09-29T16:45:00Z",
+    "updated_at": "2023-09-29T16:45:00Z"
+  },
+  {
+    "title": "Neural Search Optimizations for Genomic Sequence Alignment",
+    "authors": [
+      {
+        "name": "Robert Chen",
+        "affiliation": "Broad Institute",
+        "email": "r.chen@broadinstitute.org",
+        "orcid": "0000-0015-6789-0123"
+      },
+      {
+        "name": "Aisha Mahmood",
+        "affiliation": "Genome Institute of Singapore",
+        "email": "aisha.mahmood@gis.sg",
+        "orcid": "0000-0016-7890-1234"
+      }
+    ],
+    "publication_date": "2023-08-18",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btad456",
+    "abstract": "Genomic sequence alignment remains computationally intensive despite algorithmic advances. This paper introduces NEURALIGN, a neural information retrieval approach for accelerating alignment of next-generation sequencing data. By leveraging learned embeddings of genomic sequences, our method provides a 10-50x speedup in candidate sequence identification while maintaining alignment accuracy comparable to state-of-the-art methods.",
+    "summary": "This paper introduces NEURALIGN, a neural information retrieval system for accelerating genomic sequence alignment. The authors developed specialized embeddings for DNA/RNA sequences that encode biological properties while maintaining compatibility with efficient vector search techniques. Their two-stage approach uses approximate vector search to rapidly identify candidate regions, followed by traditional dynamic programming alignment only where needed. Benchmarks on whole-genome sequencing data show a 10-50x speedup compared to BWA-MEM and Bowtie2, with alignment accuracy within 0.15% of these methods. The system is particularly effective for metagenomic applications and long-read sequencing data. The authors provide detailed implementation guidance and performance optimization techniques, making this immediately applicable to existing bioinformatics pipelines.",
+    "keywords": ["genomic sequence alignment", "neural information retrieval", "bioinformatics", "vector search", "next-generation sequencing"],
+    "disciplines": ["Bioinformatics", "Computational Biology", "Information Retrieval"],
+    "citations_count": 23,
+    "references": [
+      {
+        "doi": "10.1093/bioinformatics/btp324",
+        "title": "Fast and accurate short read alignment with Burrows-Wheeler transform",
+        "authors": "Li et al.",
+        "year": 2009
+      },
+      {
+        "doi": "10.1038/s41587-019-0072-8",
+        "title": "Accelerating searches of research data with deep learning",
+        "authors": "Weber et al.",
+        "year": 2019
+      }
+    ],
+    "full_text_url": "https://example.org/bioinformatics/neural-search-genomic-alignment",
+    "pdf_url": "https://example.org/bioinformatics/neural-search-genomic-alignment.pdf",
+    "language": "en",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "BIOINF-2023-456",
+      "impact_factor": 6.5,
+      "funding": ["National Institutes of Health", "Agency for Science, Technology and Research"]
+    },
+    "created_at": "2023-08-19T11:30:00Z",
+    "updated_at": "2023-08-19T11:30:00Z"
+  },
+  {
+    "title": "Impacto de la Inteligencia Artificial Generativa en el Diagnóstico Médico: Estudio Multicéntrico en Hospitales de América Latina",
+    "authors": [
+      {
+        "name": "Javier Ramírez",
+        "affiliation": "Universidad de Buenos Aires",
+        "email": "j.ramirez@uba.ar",
+        "orcid": "0000-0017-8901-2345"
+      },
+      {
+        "name": "Ana María Fernández",
+        "affiliation": "Hospital Clínico de Santiago",
+        "email": "amfernandez@hcsantiago.cl",
+        "orcid": "0000-0018-9012-3456"
+      },
+      {
+        "name": "Luis Enrique Morales",
+        "affiliation": "Instituto Nacional de Salud Pública de México",
+        "email": "le.morales@insp.mx",
+        "orcid": "0000-0019-0123-4567"
+      }
+    ],
+    "publication_date": "2023-10-15",
+    "journal": "Revista Panamericana de Salud Pública",
+    "doi": "10.26633/rpsp.2023.7890",
+    "abstract": "La inteligencia artificial generativa (IAG) está transformando el diagnóstico médico globalmente. Este estudio multicéntrico evaluó la implementación de sistemas de IAG en 18 hospitales de 7 países latinoamericanos. Mediante un diseño de investigación mixto, analizamos la precisión diagnóstica, impacto en flujos de trabajo clínicos y perspectivas de profesionales sanitarios sobre estas tecnologías emergentes.",
+    "summary": "Esta investigación multicéntrica evalúa el impacto de sistemas de inteligencia artificial generativa en el diagnóstico médico en 18 hospitales latinoamericanos. Los autores implementaron tres sistemas de IA en departamentos de radiología, patología y medicina interna, analizando 15,000 casos clínicos durante 12 meses. Los resultados muestran una reducción del 28% en tiempo diagnóstico y mejora del 17% en precisión diagnóstica cuando se utilizó IA como herramienta complementaria. Las entrevistas con 240 profesionales sanitarios revelaron aceptación positiva (73%) pero preocupaciones significativas sobre infraestructura digital insuficiente y brechas de equidad. El estudio propone un marco de implementación adaptado al contexto latinoamericano, con recomendaciones específicas para superar limitaciones técnicas y culturales identificadas en la región.",
+    "keywords": ["inteligencia artificial generativa", "diagnóstico médico", "América Latina", "sistemas de salud", "radiología"],
+    "disciplines": ["Informática Médica", "Salud Pública", "Inteligencia Artificial"],
+    "citations_count": 9,
+    "references": [
+      {
+        "doi": "10.1016/S0140-6736(22)00329-5",
+        "title": "Diagnostic accuracy of an artificial intelligence system in the interpretation of small bowel capsule endoscopy videos: a multicentre retrospective study",
+        "authors": "Fernández-Esparrach et al.",
+        "year": 2022
+      },
+      {
+        "doi": "10.26633/RPSP.2022.57",
+        "title": "Inteligencia artificial en salud: un llamado a la acción para América Latina y el Caribe",
+        "authors": "Etienne et al.",
+        "year": 2022
+      }
+    ],
+    "full_text_url": "https://example.org/rpsp/ia-generativa-diagnostico-latam",
+    "pdf_url": "https://example.org/rpsp/ia-generativa-diagnostico-latam.pdf",
+    "language": "es",
+    "license": "CC-BY-NC-4.0",
+    "metadata": {
+      "publisher_id": "RPSP-2023-7890",
+      "impact_factor": 2.8,
+      "funding": ["Organización Panamericana de la Salud", "Consejo Nacional de Investigaciones Científicas y Técnicas"]
+    },
+    "created_at": "2023-10-16T14:10:00Z",
+    "updated_at": "2023-10-16T14:10:00Z"
+  },
+  {
+    "title": "Retrieval-Augmented Generation for Scientific Literature Review: A Comparative Analysis",
+    "authors": [
+      {
+        "name": "Priya Sharma",
+        "affiliation": "University of Toronto",
+        "email": "p.sharma@utoronto.ca",
+        "orcid": "0000-0020-1234-5678"
+      },
+      {
+        "name": "Thomas Klein",
+        "affiliation": "Allen Institute for AI",
+        "email": "thomask@allenai.org",
+        "orcid": "0000-0021-2345-6789"
+      }
+    ],
+    "publication_date": "2023-11-20",
+    "journal": "Proceedings of ACL",
+    "doi": "10.18653/v1/2023.acl-long.123",
+    "abstract": "Large language models (LLMs) often struggle with factual accuracy when summarizing scientific literature. This paper evaluates retrieval-augmented generation (RAG) approaches for scientific literature review, comparing various retrieval mechanisms and knowledge integration methods. We introduce SciRAG, a benchmark for assessing the factuality and comprehensiveness of generated literature reviews across multiple scientific domains.",
+    "summary": "This paper presents a thorough evaluation of retrieval-augmented generation (RAG) approaches for scientific literature review. The authors created SciRAG, a benchmark spanning 6 scientific domains with 1,800 expert-validated literature review questions. Their experiments compared 8 retrieval methods (BM25, dense retrieval, hybrid approaches) and 4 knowledge integration techniques across 5 state-of-the-art language models. Key findings include: 1) domain-specific retrievers outperform general ones by 17-42% on scientific literature; 2) chain-of-thought reasoning improves factuality by 23%; 3) self-consistency checking reduces hallucination by 31%. The paper provides practical guidance on RAG system design for scientific applications and addresses limitations around evaluation of interdisciplinary topics and evolving scientific knowledge.",
+    "keywords": ["retrieval-augmented generation", "scientific literature review", "large language models", "natural language processing", "information retrieval"],
+    "disciplines": ["Natural Language Processing", "Information Retrieval", "Scientific Computing"],
+    "citations_count": 5,
+    "references": [
+      {
+        "doi": "10.18653/v1/2020.findings-emnlp.63",
+        "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+        "authors": "Lewis et al.",
+        "year": 2020
+      },
+      {
+        "doi": "10.48550/arXiv.2302.04724",
+        "title": "A Survey on Retrieval-Augmented Text Generation",
+        "authors": "Gao et al.",
+        "year": 2023
+      }
+    ],
+    "full_text_url": "https://example.org/acl/rag-scientific-literature-review",
+    "pdf_url": "https://example.org/acl/rag-scientific-literature-review.pdf",
+    "language": "en",
+    "license": "CC-BY-4.0",
+    "metadata": {
+      "publisher_id": "ACL-2023-123",
+      "conference": "Association for Computational Linguistics 2023",
+      "funding": ["Natural Sciences and Engineering Research Council of Canada", "Allen Institute for AI"]
+    },
+    "created_at": "2023-11-21T10:15:00Z",
+    "updated_at": "2023-11-21T10:15:00Z"
+  }
+]
